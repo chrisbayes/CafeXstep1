@@ -1,0 +1,4 @@
+1,Cola,Cold,.50
+2,Coffee,Hot,1.00
+3,Cheese Sandwich,Cold,2.00
+4,Steak Sandwich,Hot,4.50
